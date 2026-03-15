@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3"
+gem "jekyll-feed"
+gem "jekyll-sitemap"
+gem "jemoji"
+gem "jekyll-include-cache"
+gem "jekyll-remote-theme"
+gem "webrick", "~> 1.8"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
