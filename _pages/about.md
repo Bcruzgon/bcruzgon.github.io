@@ -7,20 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Fill in your bio here. Example format below: -->
-
-I am a [position] at the [department/institute](https://link) at [university]. I work with [Prof. Advisor Name](https://link) on [research topic].
-
-I earned my [degree] in [field] from [university] under the guidance of [Prof. Advisor Name](https://link). My doctoral research focused on [brief description].
+Hello! My name is Brenda. I am a nanotechnologist and a PhD candidate in Bioengineering: Material Science at the University of Notre Dame, where I conduct original research on enhancing the targeting efficacy of Endothelial Colony Forming Cells (ECFCs) for tissue regeneration via targeted Liposomal Nanoparticles (LNPs). I am advised by [Dr. Donny Hanjaya-Putra](https://dhplab.nd.edu) and [Dr. Yichung Wang](https://yichun-wang-lab.com/). Before starting my PhD, I graduated from the Universidad de las Américas Puebla (UDLAP) with a major in Nanotechnology and Molecular Engineering.
 
 ## Research Interests
 
-- Interest 1
-- Interest 2
-- Interest 3
-
-## Education
-
-- **PhD** Field, University, Year
-- **MS** Field, University, Year
-- **BS** Field, University, Year
+- Stem Cell Engineering
+- Nanomedicine
+- Liposomes
+- Drug Delivery
+- Hydrogels
+- Nanomaterials
