@@ -52,7 +52,7 @@ exclude:
 
 # Build settings
 markdown: kramdown
-remote_theme: "academicpages/academicpages.github.io"
+remote_theme: "academicpages/academicpages.github.io@ce140cb30afb6630e3900e7a101384dbef7a4bc4"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
