@@ -21,3 +21,7 @@ author_profile: true
 - Lightsey, N. K.; **Cruz-Gonzalez, B.**; Gudla, S.; Hanjaya-Putra, D. (2026). *Protocol to study in vitro lymphatic collecting vessel phenotypes in human lymphatic endothelial cells with hyaluronic acid and oscillatory shear stress*. STAR Protocols (to be submitted).
 - Saha, S.; Jeong, P. D.; **Cruz-Gonzalez, B.**; Chang, C.; Zartman, J.; Hanjaya-Putra, D. (2026). *Bioelectrical Fingerprints and Ion Channel Dynamics Orchestrate Mesodermal to Endothelial Cell Fate Transition: Implications for Lymphatic Progenitor Generation*. (to be submitted).
 - Hall, E.; Alderfer, L.; **Cruz-Gonzalez, B.**; Ryan, K.; Haas, D. M.; Haneline, L. S.; Hanjaya-Putra, D. (2026). *Small Extracellular Vesicles from Preeclampsia-Affected Endothelial Colony Forming Cells Affect Angiogenic Pathways*. (to be submitted).
+
+## Intellectual Property
+
+- Invention Disclosure: *Surface-conjugated, controlled-release lipid nanoparticle payloads on living cells without genetic modification*. University of Notre Dame IDEA Center, 2026.
